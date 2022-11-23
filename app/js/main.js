@@ -6,4 +6,7 @@ $(function () {
     autoplay: true,
     autoplaySpeed: 2000,
   });
+  $(".star").rateYo({
+    rating: 3.6,
+  });
 });
